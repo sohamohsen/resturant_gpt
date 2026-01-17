@@ -1,0 +1,6 @@
+projectKey=restaurant-gpt
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=restaurant-gpt
+ceTaskId=f2e0e980-9d48-470d-a748-52dae57d27d6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f2e0e980-9d48-470d-a748-52dae57d27d6
