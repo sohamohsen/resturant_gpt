@@ -28,7 +28,7 @@ class TableServiceTest {
     @Story("Get available tables")
     void getAvailableTables_success() {
         service.add(1, 10, 4);
-        service.add(2, 11, 6);
+         service.add(2, 11, 6);
 
         assertEquals(2, service.getAvailableTables().size());
     }
